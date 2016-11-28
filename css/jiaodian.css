@@ -1,0 +1,11 @@
+.head1{background:url(../images/banner_02.gif) repeat-x;padding:0px;}
+.head1 .banner{ margin:0px auto 0; position:relative;}
+.head1 .banner,#banner_list li img{ width:980px; height:299px;}
+.head1 #banner_list{ overflow:hidden;width:980px;height:300px;}
+.head1 #banner_list li{ display:none; list-style:none;}
+.head1 #banner_btn{ position:absolute; right:450px; bottom:6px;}
+.head1 #banner_btn li{border-radius:15px; text-indent:-999em; float:left;background:#ECECEC; width:16px; height:16px; margin-right:5px;  cursor:pointer;list-style:none;}
+.head1 #banner_btn .sel{ background:#C03;}
+
+
+
